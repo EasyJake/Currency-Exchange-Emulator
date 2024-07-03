@@ -68,3 +68,5 @@ print(v1 + 3)  # Treats 3 as USD and adds to v1 as EUR
 print(3 + v1)  # Treats 3 as USD and adds to v1 as EUR
 print(v1 - 3)  # Treats 3 as USD and subtracts from v1 as EUR
 print(30 - v2)  # Treats 30 as USD and subtracts v2 from it
+
+## Pushing to github to resolve replit link error on canvas
